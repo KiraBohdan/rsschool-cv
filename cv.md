@@ -12,10 +12,7 @@
 
 ## ABOUT ME
 
-I am active, purposeful and ambitious.\
-I know how to work in a team. Responsible for completing tasks and KPI.\
-I have a systemic mindset and have a creative approach to completing tasks.\
-Always strive to improve and develop my skills and knowledge.
+I am active, purposeful and ambitious. I know how to work in a team. Responsible for completing tasks and KPI. I have a systemic mindset and have a creative approach to completing tasks. Always strive to improve and develop my skills and knowledge.
 
 ## HARD SKILLS
 
@@ -65,12 +62,12 @@ function multiply(a, b){
 
 > **GeekBrains**\
 > Faculty of Python Development\
-> _Russia, Moscow | 2021_\
+> Russia, Moscow | 2021\
 > Specialisation: Developer
 
 > **Belarusian National Technical University**\
 > Faculty of Power Engineering Heat and gas supply, ventilation\
-> _Belarus, Minsk | 2007-2012_\
+> Belarus, Minsk | 2007-2012\
 > Specialisation: Civil Engineer
 
 ## LANGUAGES
