@@ -52,24 +52,24 @@ function multiply(a, b){
 
 ## CAREER SUMMARY
 
-> **Key Account Manager**
-> Schneider Electric
-> **Sales Manager**
-> System KAN-therm
-> **Civil Engineer**
+> **Key Account Manager**\
+> Schneider Electric\
+> **Sales Manager**\
+> System KAN-therm\
+> **Civil Engineer**\
 > Distribution at the end of the university
 
 ## EDUCATION
 
-**GeekBrains**
-Faculty of Python Development
-_Russia, Moscow | 2021_
-Specialisation: Developer
+> **GeekBrains**\
+> Faculty of Python Development\
+> _Russia, Moscow | 2021_\
+> Specialisation: Developer\
 
-**Belarusian National Technical University**
-Faculty of Power Engineering Heat and gas supply, ventilation
-_Belarus, Minsk | 2007-2012_
-Specialisation: Civil Engineer
+> **Belarusian National Technical University**\
+> Faculty of Power Engineering Heat and gas supply, ventilation\
+> _Belarus, Minsk | 2007-2012_\
+> Specialisation: Civil Engineer
 
 ## LANGUAGES
 
