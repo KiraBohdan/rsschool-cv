@@ -53,10 +53,10 @@ function multiply(a, b){
 ## CAREER SUMMARY
 
 > **Key Account Manager**\
-> Schneider Electric\
+> Schneider Electric
 
 > **Sales Manager**\
-> System KAN-therm\
+> System KAN-therm
 
 > **Civil Engineer**\
 > Distribution at the end of the university
@@ -66,7 +66,7 @@ function multiply(a, b){
 > **GeekBrains**\
 > Faculty of Python Development\
 > _Russia, Moscow | 2021_\
-> Specialisation: Developer\
+> Specialisation: Developer
 
 > **Belarusian National Technical University**\
 > Faculty of Power Engineering Heat and gas supply, ventilation\
