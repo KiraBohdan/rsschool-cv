@@ -54,8 +54,10 @@ function multiply(a, b){
 
 > **Key Account Manager**\
 > Schneider Electric\
+
 > **Sales Manager**\
 > System KAN-therm\
+
 > **Civil Engineer**\
 > Distribution at the end of the university
 
